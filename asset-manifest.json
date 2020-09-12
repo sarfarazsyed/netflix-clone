@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/netflix-clone/static/css/main.a720e5cc.chunk.css",
-    "main.js": "/netflix-clone/static/js/main.57edac44.chunk.js",
-    "main.js.map": "/netflix-clone/static/js/main.57edac44.chunk.js.map",
-    "runtime-main.js": "/netflix-clone/static/js/runtime-main.baddefd0.js",
-    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.baddefd0.js.map",
-    "static/js/2.c644f200.chunk.js": "/netflix-clone/static/js/2.c644f200.chunk.js",
-    "static/js/2.c644f200.chunk.js.map": "/netflix-clone/static/js/2.c644f200.chunk.js.map",
-    "index.html": "/netflix-clone/index.html",
-    "precache-manifest.8a611543430754ec9b8b21a7b402b80c.js": "/netflix-clone/precache-manifest.8a611543430754ec9b8b21a7b402b80c.js",
-    "service-worker.js": "/netflix-clone/service-worker.js",
-    "static/css/main.a720e5cc.chunk.css.map": "/netflix-clone/static/css/main.a720e5cc.chunk.css.map",
-    "static/js/2.c644f200.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.c644f200.chunk.js.LICENSE.txt"
+    "main.css": "/netflixClone/static/css/main.a720e5cc.chunk.css",
+    "main.js": "/netflixClone/static/js/main.f59b0640.chunk.js",
+    "main.js.map": "/netflixClone/static/js/main.f59b0640.chunk.js.map",
+    "runtime-main.js": "/netflixClone/static/js/runtime-main.003b2803.js",
+    "runtime-main.js.map": "/netflixClone/static/js/runtime-main.003b2803.js.map",
+    "static/js/2.dfb2f2e3.chunk.js": "/netflixClone/static/js/2.dfb2f2e3.chunk.js",
+    "static/js/2.dfb2f2e3.chunk.js.map": "/netflixClone/static/js/2.dfb2f2e3.chunk.js.map",
+    "index.html": "/netflixClone/index.html",
+    "precache-manifest.02bc05e5b61633bba3d51aae5a31f50b.js": "/netflixClone/precache-manifest.02bc05e5b61633bba3d51aae5a31f50b.js",
+    "service-worker.js": "/netflixClone/service-worker.js",
+    "static/css/main.a720e5cc.chunk.css.map": "/netflixClone/static/css/main.a720e5cc.chunk.css.map",
+    "static/js/2.dfb2f2e3.chunk.js.LICENSE.txt": "/netflixClone/static/js/2.dfb2f2e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.baddefd0.js",
-    "static/js/2.c644f200.chunk.js",
+    "static/js/runtime-main.003b2803.js",
+    "static/js/2.dfb2f2e3.chunk.js",
     "static/css/main.a720e5cc.chunk.css",
-    "static/js/main.57edac44.chunk.js"
+    "static/js/main.f59b0640.chunk.js"
   ]
 }
